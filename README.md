@@ -9,4 +9,4 @@
 
 <br>
 
-Projeto de desagregação do consumo de água residêncial de comunidades de baixa renda da cidade do Salvador através de técnicas estatísticas e de aprendizado de máquina.
+Projeto de desagregação do consumo de água residêncial de comunidades de baixa renda da cidade do Salvador
