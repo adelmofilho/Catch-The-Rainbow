@@ -1,5 +1,3 @@
-# Catch-The-Rainbow
-
 <p align="center"><img src="https://i.imgur.com/K23GkGs.png" align="center" height=220/>
 </p>
 
@@ -11,4 +9,4 @@
 
 <br>
 
-Projeto de desagregação do consumo de água residêncial de comunidades de baixa renda da cidade do Salvador.
+Projeto de desagregação do consumo de água residêncial de comunidades de baixa renda da cidade do Salvador através de técnicas estatísticas e de aprendizado de máquina.
