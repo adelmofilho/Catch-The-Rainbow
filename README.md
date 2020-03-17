@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/K23GkGs.png" align="center" height=220/>
+<p align="center"><img src="https://vignette.wikia.nocookie.net/jjba/images/4/40/CatchtheRainbowstand.png/revision/latest/scale-to-width-down/310?cb=20150130194008&path-prefix=pt-br" align="center" height=220/>
 </p>
 
 <h2 align="center">Catch The Rainbow</h2>
